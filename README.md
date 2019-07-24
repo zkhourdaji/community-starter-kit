@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A better way to welcome new developers.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+welcome bot sends custom friendly greetings when new member join your team.
 
 ## Getting started
 
